@@ -1,0 +1,70 @@
+g++ -Wall -g -c tester.cc
+Student.h: In constructor 'Student::Student(Major*)':
+Student.h:19: error: class 'Student' does not have any field named 'gnu_dev_major'
+Plan.h: In constructor 'Plan::Plan(Student*)':
+Plan.h:20: error: class 'Plan' does not have any field named 'gnu_dev_major'
+make: *** [tester.o] Error 1
+g++ -Wall -g -c Course.cc
+Course.cc: In member function 'GLER& Course::getGler() const':
+Course.cc:12: error: invalid initialization of reference of type 'GLER&' from expression of type 'const GLER'
+Course.cc: In member function 'std::string& Course::getDepartment() const':
+Course.cc:18: error: invalid initialization of reference of type 'std::string&' from expression of type 'const std::string'
+Course.cc: In member function 'int& Course::getNumber() const':
+Course.cc:23: error: invalid initialization of reference of type 'int&' from expression of type 'const short unsigned int'
+Course.cc: In member function 'void Course::read(std::istream&)':
+Course.cc:48: error: no matching function for call to 'Objective::read(std::basic_istream<char, std::char_traits<char> >&)'
+Objective.h:34: note: candidates are: virtual void Objective::read(std::ifstream&)
+Course.cc: In function 'std::istream& operator>>(std::istream&, Course&)':
+Course.cc:59: error: 'is' was not declared in this scope
+make: *** [Course.o] Error 1
+g++ -Wall -g -c CourseList.cc
+CourseList.cc: In static member function 'static CourseList& CourseList::getInstance()':
+CourseList.cc:10: error: cannot declare static function inside another function
+CourseList.cc:11: error: invalid initialization of non-const reference of type 'CourseList&' from a temporary of type 'CourseList (*)()'
+CourseList.cc: In member function 'Course* CourseList::find(const std::string&, const int&)':
+CourseList.cc:31: error: no match for 'operator<' in 'i < CourseList::courses.std::vector<_Tp, _Alloc>::end [with _Tp = Course, _Alloc = std::allocator<Course>]()'
+CourseList.cc:33: error: base operand of '->' has non-pointer type 'Course'
+CourseList.cc:34: error: base operand of '->' has non-pointer type 'Course'
+CourseList.cc:35: error: cannot convert 'Course' to 'Course*' in return
+make: *** [CourseList.o] Error 1
+g++ -Wall -g -c CourseListTest.cc
+g++ -Wall -g -c CourseTest.cc
+g++ -Wall -g -c FortyCoursesObjective.cc
+g++ -Wall -g -c FortyCoursesObjectiveTest.cc
+g++ -Wall -g -c GLERObjective.cc
+g++ -Wall -g -c GLERObjectiveTest.cc
+g++ -Wall -g -c GLERTest.cc
+g++ -Wall -g -c Major.cc
+g++ -Wall -g -c MajorList.cc
+MajorList.cc: In static member function 'static void MajorList::getInstance()':
+MajorList.cc:12: error: return-statement with a value, in function returning 'void'
+make: *** [MajorList.o] Error 1
+g++ -Wall -g -c MajorListTest.cc
+g++ -Wall -g -c MajorTest.cc
+g++ -Wall -g -c MinimumObjective.cc
+g++ -Wall -g -c MinimumObjectiveTest.cc
+g++ -Wall -g -c OneOfObjective.cc
+g++ -Wall -g -c OneOfObjectiveTest.cc
+g++ -Wall -g -c Plan.cc
+Student.h: In constructor 'Student::Student(Major*)':
+Student.h:19: error: class 'Student' does not have any field named 'gnu_dev_major'
+Plan.h: In constructor 'Plan::Plan(Student*)':
+Plan.h:20: error: class 'Plan' does not have any field named 'gnu_dev_major'
+make: *** [Plan.o] Error 1
+g++ -Wall -g -c PlanTest.cc
+Student.h: In constructor 'Student::Student(Major*)':
+Student.h:19: error: class 'Student' does not have any field named 'gnu_dev_major'
+Plan.h: In constructor 'Plan::Plan(Student*)':
+Plan.h:20: error: class 'Plan' does not have any field named 'gnu_dev_major'
+make: *** [PlanTest.o] Error 1
+g++ -Wall -g -c SingleObjective.cc
+g++ -Wall -g -c SingleObjectiveTest.cc
+g++ -Wall -g -c Student.cc
+Student.h: In constructor 'Student::Student(Major*)':
+Student.h:19: error: class 'Student' does not have any field named 'gnu_dev_major'
+make: *** [Student.o] Error 1
+g++ -Wall -g -c StudentTest.cc
+Student.h: In constructor 'Student::Student(Major*)':
+Student.h:19: error: class 'Student' does not have any field named 'gnu_dev_major'
+make: *** [StudentTest.o] Error 1
+make: Target `all' not remade because of errors.

@@ -1,0 +1,25 @@
+g++ -Wall -g -c tester.cc
+g++ -Wall -g -c Course.cc
+g++ -Wall -g -c CourseList.cc
+g++ -Wall -g -c CourseListTest.cc
+g++ -Wall -g -c CourseTest.cc
+g++ -Wall -g -c FortyCoursesObjective.cc
+g++ -Wall -g -c FortyCoursesObjectiveTest.cc
+g++ -Wall -g -c GLERObjective.cc
+g++ -Wall -g -c GLERObjectiveTest.cc
+g++ -Wall -g -c GLERTest.cc
+g++ -Wall -g -c Major.cc
+g++ -Wall -g -c MajorList.cc
+g++ -Wall -g -c MajorListTest.cc
+g++ -Wall -g -c MajorTest.cc
+g++ -Wall -g -c MinimumObjective.cc
+g++ -Wall -g -c MinimumObjectiveTest.cc
+g++ -Wall -g -c OneOfObjective.cc
+g++ -Wall -g -c OneOfObjectiveTest.cc
+g++ -Wall -g -c Plan.cc
+g++ -Wall -g -c PlanTest.cc
+g++ -Wall -g -c SingleObjective.cc
+g++ -Wall -g -c SingleObjectiveTest.cc
+g++ -Wall -g -c Student.cc
+g++ -Wall -g -c StudentTest.cc
+g++ -Wall -g tester.o Course.o CourseList.o CourseListTest.o CourseTest.o FortyCoursesObjective.o FortyCoursesObjectiveTest.o GLERObjective.o GLERObjectiveTest.o GLERTest.o Major.o MajorList.o MajorListTest.o MajorTest.o MinimumObjective.o MinimumObjectiveTest.o OneOfObjective.o OneOfObjectiveTest.o Plan.o PlanTest.o SingleObjective.o SingleObjectiveTest.o Student.o StudentTest.o -o tester -lcppunit -ldl

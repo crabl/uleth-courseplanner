@@ -1,0 +1,49 @@
+/// \file 
+/// \brief SMBC Coding Style Guidelines
+/// \author Christopher Rabl
+/// \date November 9, 2010
+
++---------------------------+
+| DESCRIPTION OF GUIDELINES |
++---------------------------+
+
+This project will utilize the Google C++ Style Guide. This document may be found at http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml We believe that Google has good standards for C++ coding styles based on the adoption rate of these standard in the open-source arena and therefore, since it works for Google, it works for us!
+
++--------------------------+
+| DOCUMENTATION GUIDELINES |
++--------------------------+
+
+Documentation will be created using Doxygen. All files will include a header in the format below:
+
+/// \file
+/// \brief [A brief description of the file is included here]
+/// \author [The name of the original author of the file] [Student ID number of the author]
+/// \date [Month name] [Day number (DD)], [Year number (YYYY)]
+
+When creating documentation above a function or class member, use a leading space after the triple slash. This provides a clear distinction between markup and documentation. This minor detail works to enhance readability. For example:
+
+     +---------------------------------------------------+
+     | BAD                                               |
+     +---------------------------------------------------+
+     | ///This function does whatever this comment says  |
+     | ///\return Whatever this function returns         |
+     | void function(int arg, ...);                      |
+     +---------------------------------------------------+
+
+     +---------------------------------------------------+
+     | GOOD                                              |
+     +---------------------------------------------------+
+     | /// This function does wahtever this comment says |
+     | /// \return Whatever this function returns        |
+     | void function(int arg, ...);                      |
+     +---------------------------------------------------+
+
+Start all comments that have a potential for a more detailed description with
+
+/// \brief
+
+in case a detailed description needs to be added later in the format:
+
+/// \brief
+//
+/// [detailed description]

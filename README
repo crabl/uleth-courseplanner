@@ -1,0 +1,7 @@
+All implementation files are located in the main directory of the repository.
+The coding style conventions can be found in GUIDELINES.
+The reference manual can be found in refman.pdf.
+Test data used in running tester can be found in TestData/.
+Daily compilation and test results can be found in tests/.
+
+The only significant change to our object-oriented design is the inclusion of a read function in Objective and its derived classes.

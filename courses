@@ -1,0 +1,367 @@
+C
+MATH 1410
+Elementary Linear Algebra
+Linear systems and matrices. Matrix algebra. Determinants. Vector geometry. Complex numbers. Markov chains and other applications.
+SCIENCE
+
+C
+MATH 1510
+Calculus for Management and Social Sciences
+Differentiation of elementary functions, the chain and product rules, extrema problems, integration. Applications from management, humanities and the social sciences.
+SCIENCE
+
+C
+MATH 1560
+Calculus I 
+Functions. Limits. Continuity. Differentiation and integration of polynomial, rational, root, trigonometric, exponential, and logarithmic functions. Applications of derivatives. Curve sketching and optimizations. Anti-derivatives. Change of variable. Definite integrals. Fundamental Theorem of Calculus.
+SCIENCE
+
+C
+MATH 2000
+Mathemagical Concepts
+Logic, proofs. Set theory. Relations and functionos. Finite and countable sets. Induction. Examples of axiomatic mathematical theories.
+SCIENCE
+
+C
+MATH 2560
+Calculus II
+Applications of integration; logarithmic, exponential and hyperbolic functions; inverse functions; inverse trigonometric and hyperbolic functions; indeterminate forms; improper integrals; techniques of integration.
+SCIENCE
+P S MATH 1560
+
+C
+MATH 2570
+Calculus III
+Sequences and series, convergence tests, Taylor's series, vector-valued functions of a real variable, polar coordinates, applications to analytic geometry.
+SCIENCE
+P S MATH 1410
+P S MATH 2650
+
+C
+MATH 2580
+Calculus IV
+Calculus of functions of several variables: partial differentiation, chain rule, applications, multiple integration, change of variables, theorems from vector analysis, including Stokes' Theorem.
+SCIENCE
+P S MATH 2570
+
+C
+MATH 2865
+Combinatorial Mathematics
+Graphs, trees and digraphs. Network flows. Scheduling. Enumeration, including the principle of Inclusion-Exclusion and generating functions.
+SCIENCE
+P S MATH 1410
+
+C
+MATH 3100
+Introduction to Mathematical Logic
+First Order Logic. Validity, provability, completeness, consistency, independence, categoricity, decidability, Gödel's Theorem.
+SCIENCE
+P S MATH 2000
+
+C
+MATH 3200
+Geometry
+Introduction to classical geometry from the axiomatic point of view. Lines and affine planes. Separation, order, similarity, congruence. Isometries and their classification. Groups of symmetries. Projective, hyperbolic and inversive geometries.
+SCIENCE
+P S MATH 2000
+
+C
+MATH 3400
+Group and Ring Theory
+Groups, abelian groups, subgroups, quotient groups. Homomorphism. Isomorphism theorems. Lagrange's theorem. Permutation groups. Sylow theorems. Commutative rings, subrings, ideals. Quotient rings and ideals.
+SCIENCE
+P S MATH 2000
+
+C
+MATH 3410
+Linear Algebra
+Vector spaces over the real and complex numbers. Basis and dimension. Linear transformations. Change of basis. Gram-Schmidt orthogonalization. Eigenvectors and diagonalization. Canonical forms. Cayley-Hamilton Theorem.
+SCIENCE
+P S MATH 1410
+P S MATH 2000
+
+C
+MATH 3461
+Elementary Number Theory
+Division algorithm. Fundamental Theorem of Arithmetic. Euclidean Algorithm. Linear Diophantine equations. Congruences. Chinese Remainder Theorem. Quadratic reciprocity. Additional topics such as Pythagorean triples, Gaussian integers, sums of squares, continued fractions, arithmetic functions, or cryptography.
+SCIENCE
+P S MATH 2000
+
+C
+MATH 3500
+Analysis I
+Rigorous treatment of the notions of calculus of a single variable, emphasizing epsilon-delta proofs. Completeness of the real numbers. Upper and lower limits. Continuity. Differentiability. Riemann integrability.
+SCIENCE
+P S MATH 2000
+P S MATH 2570
+
+C
+MATH 3560
+Functions of a Complex Variable
+Complex number system and complex plane. Analytic functions. Complex integration. Power series. Calculus of residues.
+SCIENCE
+P S MATH 2580
+P S MATH 2000
+
+C
+MATH 3600
+Differential Equations I
+First order ordinary differential equations. Second and higher order ordinary differential equations. Linear systems of ordinary differential equations. Qualitative theory of ordinary differential equations. Applications. Series solutions. Singular point expansions. Elementary linear difference equations.
+SCIENCE
+P S MATH 1410
+P S MATH 2560
+
+C
+MATH 3860
+Combinatorics
+Burnside's theorem, Polya's theorem. Finite fields and combinatorial design. Coding theory. Ramsey Theory.
+SCIENCE
+P S MATH 2865
+
+C
+MATH 4310
+Topology
+Topological spaces. Topology of metric spaces. Continuity. Open covers and compactness. Separation. Connectedness.
+SCIENCE
+P S MATH 3500
+
+C
+MATH 4400
+Field Theory
+Polynomial rings. Fields and field extensions, construction problems. Finite fields. Galois Theory. Fundamental Theorem of Algebra.
+SCIENCE
+P S MATH 3400
+
+C
+MATH 4500
+Analysis II
+This follow-up course to Mathematics 3500 (Analysis I) presents concepts that are crucial for an understanding of both pure and applied mathematics at an advanced level. Sequences and series of functions. Uniform continuity. Uniform convergence. The Stone-Weierstrass Theorem. The Lebesgue (or Riemann-Stieltjes) integral. Fourier series. Other topics.
+SCIENCE
+P S MATH 3500
+
+C
+MATH 4600
+Differential Equations II
+Adjoints. Oscillation theory. Matrix methods. Matrix exponential functions. Sturm-Liouville theory. Orthonormal systems and Fourier series. Eigenfunction expansions. Laplace, Fourier and Mellin transforms. Convolutions. Convergence theory. Plancherel and Parseval formulae. Distributions. Solving PDEs using integral transforms. Fundamental solutions. Separation of variables. Heat, wave and Poisson equations. Harmonic functions.
+SCIENCE
+P S MATH 2570
+P S MATH 3600
+
+C
+STAT 1770
+Introduction to Probability and Statistics
+Descriptive statistics and graphical representation. Measure of central tendency and dispersion. Elementary probability. Discrete and continuous random variables. Expectation. Binomial, normal and Student's t-distribution. Large and small sample inference and estimation. Central Limit Theorem.
+SCIENCE
+
+C
+STAT 2200
+Survey Design and Analysis
+Simple random sampling. Statified sampling. Systematic and cluster sampling. Ratio, regression, and difference estimators.
+SCIENCE
+P S STAT 1770
+
+C
+STAT 2780
+Statistical Inference
+Hypothesis testing. Comparison of variances. Chi-square distribution. Contingency tables. Elementary design of experiments. Random sampling. Analysis of variance. Regression and correlation. Examples to illustrate the theory are drawn from a wide variety of fields.
+SCIENCE
+P S STAT 1770
+
+C
+STAT 3500
+Mathematical Probability
+Sample spaces and the algebra of sets. Kolmogorov axioms for probability. Probability density/distribution functions (pdfs) and cumulative distribution functions (cdfs). Joint and marginal pdfs. Combining and transforming random variables. Moment generating functions (mgfs) and factorial generating functions. Applications to discrete and continuous random variables. Central limit theorem. Order statistics.
+SCIENCE
+P S MATH 2560
+P S STAT 1770
+
+C
+STAT 3510
+Mathematical Statistics
+Estimating parameters and the fitting of probability distributions. Maximum likelihood estimators and the method of moments. Properties of estimators, including unbiasedness, sufficiency, and consistency. Large sample theory for estimators. Concepts and theory of statistical hypothesis testing. Distributions derived from the Normal distribution. Comparing two samples through hypothesis tests and confidence intervals. Analysis of variance and linear regression.
+SCIENCE
+P S STAT 3500
+
+C
+STAT 3700
+Design and Analysis of Experiments
+Basic principles of experimental design. Completely randomized designs. Complete and incomplete block designs. Regression. Analysis of variance and analysis with covariates. Contrasts and multiple comparisons. Factorial models. Random effects and fixed effects. Nested designs, split plot designs and related designs.
+SCIENCE
+P S STAT 2780
+
+C
+CPSC 1000
+Introduction to Computer Science
+Overview of computer technology and computer science. Hardware and the concept of software. Introduction to common applications. Problem solving using the computer. Social issues in computing.
+SCIENCE
+
+C
+CPSC 1620
+Fundamentals of Programming I
+Introduction to problem-solving and algorithms. Machine representation of data. Implementation of algorithms in a programming language. Fundamentals of programming concepts including branching and loops. Top-down programming and modular design. Arrays. Records. Techniques for constructing elegant and robust  programs.
+SCIENCE
+
+C
+CPSC 1820
+Discrete Structures
+Introduction to proofs. Algorithms and complexity. Divisibility and modular arithmetic. Matrix algebra. Counting. Discrete probability. Graphs and trees.
+SCIENCE
+
+C
+CPSC 2610
+Introduction to Digital Systems
+Review of number systems. Boolean algebra and simplification of Boolean functions. Combinatorial circuits. Sequential circuits. Registers and counters.
+SCIENCE
+P S CPSC 1620
+P O CPSC 1820 MATH 1410
+
+C
+CPSC 2620
+Fundamentals of Programming II
+Introduction to object-oriented programming techniques: classes, objects, and methods. Generic programming. Recursion. Abstract data types: lists, stacks, queues, priority queues, binary trees. Algorithms for searching and sorting, and algorithm analysis.
+SCIENCE
+P S CPSC 1620
+P O CPSC 1820 MATH 1410
+
+C
+CPSC 2720
+Practical Software Development
+Advanced object-oriented techniques including inheritance and polymorphism. Introduction to object-oriented design. Error detection and handling. Testing. Correctness and efficiency of programs. Collaborative software project. Version control. UNIX programming tools and scripting languages.
+SCIENCE
+P S CPSC 2620
+
+C
+CPSC 3615
+Computer Architecture
+Register-level transfer design. Constructions of the basic sybsystems of computer (control unit, arithmetic and logic unit, data path, memory, input/output). Assembly of subsystems into basic computer architecture. Performance enhancement techniques.
+SCIENCE
+P S CPSC 2610
+P S CPSC 2620
+
+C
+CPSC 3620
+Data Structures and Algorithms
+Efficient algorithm design and algorithm analysis. Abstract data types and data structures. Algorithm design and problem-solving techniques for sorting problems, tree-based problems, and graph-based problems.
+SCIENCE
+P S CPSC 1820
+P S CPSC 2620
+
+C
+CPSC 3630
+Theoretical Foundations of Computing
+Computation as strings and languages. Reular languages, finite state automata and their equivalence. Formal Grammars. Context-free languages, push-down automata and their equivalence. Recursive languages and recursively enumerable languages. Turing machines and effective computability. Church's thesis. The Chomsky hierarchy.
+SCIENCE
+P S CPSC 1620
+P S MATH 2000
+
+C
+CPSC 3655
+Operating Systems
+Overview of operating systems: history, functionality, design issues. operating system principles and structures. Concurrency: process state, context switches, mutual exclusion, semaphores, deadlock. Scheduling: preemption, schedules, processes and threads. Memory management: swapping, paging, segmentation, placement and replacement algorithms.
+SCIENCE
+P S CPSC 2720
+P S CPSC 3615
+
+C
+CPSC 3660
+Introduction to Database Systems
+Fundamental concepts of database management: modelling, design, and implementation. The languages and facilities provided by database management systems, and system implementation techniques.
+SCIENCE
+P S CPSC 2620
+P S MATH 2000
+
+C
+CPSC 3670
+Numerical Methods
+Accuracy and errors in numerical calculations. Finite differences and interpolation. Numerical differentiation and integration. Curve fitting. Solution of linear and non-linear systems of equations. Numerical solution of differential equatins.
+SCIENCE
+P S CPSC 1620
+P S MATH 2560
+
+C
+CPSC 3720
+Introduction to Software Engineering
+System life cycle and methodologies, estimating and planning, requirements gathering and specification, system external design, system internal design, development and implementation, testing, poeration and maintenance, quality assurance.
+SCIENCE
+P S CPSC 2720
+
+C
+CPSC 3730
+Cryptography
+Classical ciphers, substitution ciphers, permutatin ciphers. Shannon's informmation theory, entropy, Huffman codes, perfect secrecy and the one-time pad. Symmetric-key ciphers: block and stream ciphers. Public-key cryptosystems. Key distribution. Message suthentication and digital signatures.
+SCIENCE
+P S CPSC 2620
+P S MATH 2000
+
+C
+CPSC 3740
+Programming Languages
+A comparison of programming languages and their implementations. One language fromo each of the following families: functional, declarative/logic, Object-Oriented. Topics selected from: garbage collection, heap management, procedural languages, historical developments.
+SCIENCE
+P S CPSC 2620
+P S MATH 2000
+
+C
+CPSC 3750
+Artificial Intelligence
+Problem-solving in artificial intelligence. Knowledge representation and reasoning. Selected topics from uncertainty, probabilistic reasoning, planning and robotics, learning techniques, pattern recognition, natural language processing, and computer vision.
+SCIENCE
+P S CPSC 3740
+
+C
+CPSC 3770
+Human-Computer Interaction
+Characteristics of humans in the context of user interfaces. Design principles and methodologies. Interface evaluation with and without user involvement. Development of graphical user interfaces. Applications of human-computer interactiono in program design.
+SCIENCE
+P S CPSC 2720
+
+C
+CPSC 3780
+Data Communications and Networking
+Layered network design. Data encoding and transmission. Data link protocols, network protocols, and network applications. OSI and TCP/IP models.
+SCIENCE
+P S CPSC 2620
+
+C
+CPSC 4600
+Compiler Design
+Lexical and syntax analysis. Top-down and bottom-up parsing. Syntax-directed definition, semantics, and code generation.
+SCIENCE
+P S CPSC 3620
+P S CPSC 3630
+
+C
+CPSC 4625
+Design and Analysis of Advanced Algorithms
+Mathematics for the analysis of algorithms. Models of computatin. Advanced algorithms. NP-completeness. Toopics chosen from: probabilistic algorithms, parallel algorithms, complexity classes.
+SCIENCE
+P S CPSC 3620
+P S CPSC 3630
+
+C
+CPSC 4660
+Database Management Systems
+Systems issues and requirements related to the maintenance and the integrity of the data such as data storage, querying, and transactino management.
+SCIENCE
+P S CPSC 3660
+
+C
+CPSC 4780
+Distributed Systems
+Distributed computing environments. Interprocess communication. Distributed file systems. Synchronization. Protection and security.
+SCIENCE
+P S CPSC 3655
+P S CPSC 3780
+
+C
+HIST 1000
+Western Civilization
+Survey of selected historical developments in the Western world. Emphasis on continuity and change in context of society, politics, government, economics, culture, diplomacy, war.
+FINE_ARTS_HUMANITY
+
+C
+HIST 2001
+Main Themes in Ancient History
+The main themes in the history and historiography of medieval Europe, from the fall of the Roman Empire until the end of the Hundred Years' War. Topics include the fall of Rome and the rise of Christianity, the concepts of feudalism and renaissance, the crusades, scholasticism, 'courtly love' and chivalry, the Black Death and the development of national monarchies.
+FINE_ARTS_HUMANITY
+P S HIST 1000

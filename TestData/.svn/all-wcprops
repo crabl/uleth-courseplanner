@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/SMBC/!svn/ver/188/TestData
+END
+Math.major
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/SMBC/!svn/ver/149/TestData/Math.major
+END
+CompSci.major
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/SMBC/!svn/ver/149/TestData/CompSci.major
+END
+Invalid.course
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/SMBC/!svn/ver/135/TestData/Invalid.course
+END
+Bad.courses
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/SMBC/!svn/ver/126/TestData/Bad.courses
+END
+Good.courses
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/SMBC/!svn/ver/126/TestData/Good.courses
+END
+ValidNoPrereq.course
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/SMBC/!svn/ver/188/TestData/ValidNoPrereq.course
+END
+ValidPrereq.course
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/SMBC/!svn/ver/188/TestData/ValidPrereq.course
+END

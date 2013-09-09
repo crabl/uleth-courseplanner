@@ -1,0 +1,28 @@
+.E.E.F..............F
+
+
+!!!FAILURES!!!
+Test Results:
+Run:  17   Failures: 2   Errors: 2
+
+
+1) test: CourseTest::testCourseRead (E) 
+uncaught exception of type InvalidFile
+- Reading course file failed!
+
+
+2) test: CourseTest::testCourseWrite (E) 
+uncaught exception of type InvalidFile
+- Reading course file failed!
+
+
+3) test: CourseTest::testCourseAccessors (F) line: 54 CourseTest.cc
+assertion failed
+- Expression: validCourse->getDepartment() == "CPSC"
+
+
+4) test: StudentTest::testCanTake (F) line: 132 StudentTest.cc
+assertion failed
+- Expression: larry -> canTake(courses2[2]) == false
+
+
